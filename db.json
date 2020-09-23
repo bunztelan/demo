@@ -18,17 +18,17 @@
         },
         {
             "isNameChecked":false,
-            "name":"Data A",
+            "name":"Data B",
             "data":[
                   {
                     "isNameChecked":false,
                     "name":"Data 1",
-                    "id":"A1"
+                    "id":"B1"
                   },
                   {
                     "isNameChecked":false,
                     "name":"Data 2",
-                    "id":"A2"
+                    "id":"B2"
                   }
                 ]
 
