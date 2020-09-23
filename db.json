@@ -1,20 +1,14 @@
 {
-    "results":[
-        {
-            "isNameChecked":false,
-            "name":"Data A",
-            "data":[
-                  {
-                    "isNameChecked":false,
-                    "name":"Data 1",
-                    "id":"A1"
-                  },
-                  {
-                    "isNameChecked":false,
-                    "name":"Data 2",
-                    "id":"A2"
-                  }
-                ]
-        }
+    "emergencyContacts": [
+      {
+        "name": "Jane Doe",
+        "phone": "888-555-1212",
+        "relationship": "spouse"
+      },
+      {
+        "name": "Justin Doe",
+        "phone": "877-123-1212",
+        "relationship": "parent"
+      }
     ]
 }
