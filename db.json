@@ -1,15 +1,15 @@
 {
     "isNameChecked":false,
-    "name":"Data A"
+    "name":"Data A",
     "data":[
           {
             "isNameChecked":false,
-            "name":"Data 1"
+            "name":"Data 1",
             "id":"A1"
           },
           {
             "isNameChecked":false,
-            "name":"Data 2"
+            "name":"Data 2",
             "id":"A2"
           },
     	]
