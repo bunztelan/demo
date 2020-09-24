@@ -6,12 +6,12 @@
             "data":[
                   {
                     "isNameChecked":true,
-                    "name":"Data 1",
+                    "name":"Data B1",
                     "id":"A1"
                   },
                   {
                     "isNameChecked":true,
-                    "name":"Data 2",
+                    "name":"Data B2",
                     "id":"A2"
                   }
                 ]
@@ -22,16 +22,49 @@
             "data":[
                   {
                     "isNameChecked":false,
-                    "name":"Data 1",
+                    "name":"Data B1",
                     "id":"B1"
                   },
                   {
                     "isNameChecked":true,
-                    "name":"Data 2",
+                    "name":"Data B2",
                     "id":"B2"
                   }
                 ]
 
+        },
+        {
+            "isNameChecked":false,
+            "name":"Data C",
+            "data":[
+                  {
+                    "isNameChecked":false,
+                    "name":"Data C1",
+                    "id":"C1"
+                  },
+                  {
+                    "isNameChecked":true,
+                    "name":"Data C2",
+                    "id":"C2"
+                  }
+                ]
+
+        },
+        {
+            "isNameChecked":false,
+            "name":"Data D",
+            "data":[
+                  {
+                    "isNameChecked":false,
+                    "name":"Data D1",
+                    "id":"D1"
+                  },
+                  {
+                    "isNameChecked":true,
+                    "name":"Data D2",
+                    "id":"D2"
+                  }
+                ]
         }
       ]
 }
